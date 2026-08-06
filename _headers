@@ -1,0 +1,7 @@
+/api/*
+  Cache-Control: no-store, max-age=0
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+
+/index.html
+  Cache-Control: no-cache, no-store, must-revalidate

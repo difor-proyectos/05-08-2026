@@ -1,0 +1,11 @@
+{
+  "name": "difor-comercial",
+  "pages_build_output_dir": ".",
+  "d1_databases": [
+    {
+      "binding": "DIFOR_DB",
+      "database_name": "difor-comercial",
+      "database_id": "REEMPLAZAR_CON_ID_D1"
+    }
+  ]
+}
